@@ -1,3 +1,3 @@
-  *Version#:
-  *Version#:
-  *Version#:
+* Version#
+* Version#
+* Version#
