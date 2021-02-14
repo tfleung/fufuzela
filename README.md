@@ -2,17 +2,17 @@
 open source para-structure for bio-digital pan-African futures design [living museum architecture]
 
 ## Table of Contents
-* What is Fufuzela?
-* Latest release
-* Project Repository
-* Contributing
-* License
+* [What is Fufuzela?](https://github.com/tfleung/fufuzela/blob/main/README.md#what-is-fufuzela)
+* [Latest release](https://github.com/tfleung/fufuzela/blob/main/README.md#latest-release)
+* [Project Repository](https://github.com/tfleung/fufuzela/blob/main/README.md#project-repository)
+* [Contributing](https://github.com/tfleung/fufuzela/blob/main/README.md#contributing)
+* [License](https://github.com/tfleung/fufuzela/blob/main/README.md#license)
 
 ## What is Fufuzela?
-(about the project)
+(about the project. publications, features, and collaborations)
 
 ## Latest Release
-Download the latest *make-it* version from releases. If you are searching for specific files, use the project repository.
+Download the latest *make-it* version from [releases](https://github.com/tfleung/fufuzela/releases). If you are searching for a specific file type, check the [Project Repository](https://github.com/tfleung/fufuzela/blob/main/README.md#project-repository).
 
 ## Project Repository
 #### 0. [kernels](0-kernels/kernell-list.md)
