@@ -34,6 +34,6 @@ step-by-step instruction manuals and illustrations
 past projects collection
 
 ## Contributing
-See our contributing guide here.
+See our contributing guide [here](https://github.com/tfleung/fufuzela/blob/main/CONTRIBUTING.md).
 
 ## License
